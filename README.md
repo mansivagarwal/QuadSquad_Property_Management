@@ -1,7 +1,7 @@
 # QuadSquad_Property_Management
 ## Mission: Streamline management functions via proper database implementation
 
-##Key Objectives: 
+### Key Objectives: 
 > Maintain record of units (characteristics and lease status)
 
 > Accept and track maintenance requests (completed or scheduled)
